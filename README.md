@@ -1,7 +1,7 @@
 # Python-GUI-DISKicon
 Python GUI 程序，快速制作个性化磁盘图标
 
-### 9:41PM, Mar 18th, 2018 @ HDU_Wireless
+### 9:41PM, Mar 18th, 2018 @ HDU_Wireless_Assocication
 
 ##  使用效果
 
